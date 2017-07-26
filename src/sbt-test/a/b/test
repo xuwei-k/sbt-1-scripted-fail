@@ -1,20 +1,59 @@
+> set name :="a1"
 > +testOnly example.Test
+
+> set name :="a2"
 > +testOnly example.Test
+
+> set name :="a3"
 > +testOnly example.Test
+
+> set name :="a4"
 > +testOnly example.Test
+
+> set name :="a5"
 > +testOnly example.Test
+
+> set name :="a6"
 > +testOnly example.Test
+
+> set name :="a7"
 > +testOnly example.Test
+
+> set name :="a8"
 > +testOnly example.Test
+
+> set name :="a9"
 > +testOnly example.Test
+
+> set name :="a10"
 > +testOnly example.Test
+
+> set name :="a11"
 > +testOnly example.Test
+
+> set name :="a12"
 > +testOnly example.Test
+
+> set name :="a13"
 > +testOnly example.Test
+
+> set name :="a14"
 > +testOnly example.Test
+
+> set name :="a15"
 > +testOnly example.Test
+
+> set name :="a16"
 > +testOnly example.Test
+
+> set name :="a17"
 > +testOnly example.Test
+
+> set name :="a18"
 > +testOnly example.Test
+
+> set name :="a19"
 > +testOnly example.Test
+
+> set name :="a20"
 > +testOnly example.Test
